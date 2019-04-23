@@ -1,0 +1,137 @@
+[
+    {
+        "id": 0,
+        "nmEstado": "Acre",
+        "sigla": "AC"
+    },
+    {
+        "id": 1,
+        "nmEstado": "Alagoas",
+        "sigla": "AL"
+    },
+    {
+        "id": 2,
+        "nmEstado": "Amapá",
+        "sigla": "AP"
+    },
+    {
+        "id": 3,
+        "nmEstado": "Amazonas",
+        "sigla": "AM"
+    },
+    {
+        "id": 4,
+        "nmEstado": "Bahia",
+        "sigla": "BA"
+    },
+    {
+        "id": 5,
+        "nmEstado": "Ceará",
+        "sigla": "CE"
+    },
+    {
+        "id": 6,
+        "nmEstado": "Distrito Federal",
+        "sigla": "DF"
+    },
+    {
+        "id": 7,
+        "nmEstado": "Espírito Santo",
+        "sigla": "ES"
+    },
+    {
+        "id": 8,
+        "nmEstado": "Goiás",
+        "sigla": "GO"
+    },
+    {
+        "id": 9,
+        "nmEstado": "Maranhão",
+        "sigla": "MA"
+    },
+    {
+        "id": 10,
+        "nmEstado": "Mato Grosso",
+        "sigla": "MT"
+    },
+    {
+        "id": 11,
+        "nmEstado": "Mato Grosso do Sul",
+        "sigla": "MS"
+    },
+    {
+        "id": 12,
+        "nmEstado": "Minas Gerais",
+        "sigla": "MG"
+    },
+    {
+        "id": 13,
+        "nmEstado": "Pará",
+        "sigla": "PA"
+    },
+    {
+        "id": 14,
+        "nmEstado": "Paraíba",
+        "sigla": "PB"
+    },
+    {
+        "id": 15,
+        "nmEstado": "Paraná",
+        "sigla": "PR"
+    },
+    {
+        "id": 16,
+        "nmEstado": "Pernambuco",
+        "sigla": "PE"
+    },
+    {
+        "id": 17,
+        "nmEstado": "Piauí",
+        "sigla": "PI"
+    },
+    {
+        "id": 18,
+        "nmEstado": "Rio de Janeiro",
+        "sigla": "RJ"
+    },
+    {
+        "id": 19,
+        "nmEstado": "Rio Grande do Norte",
+        "sigla": "RN"
+    },
+    {
+        "id": 20,
+        "nmEstado": "Rio Grande do Sul",
+        "sigla": "RS"
+    },
+    {
+        "id": 21,
+        "nmEstado": "Rondônia",
+        "sigla": "RO"
+    },
+    {
+        "id": 22,
+        "nmEstado": "Roraima",
+        "sigla": "RR"
+    },
+    {
+        "id": 23,
+        "nmEstado": "Santa Catarina",
+        "sigla": "SC"
+    },
+    {
+        "id": 24,
+        "nmEstado": "São Paulo",
+        "sigla": "SP"
+    },
+    {
+        "id": 25,
+        "nmEstado": "Sergipe",
+        "sigla": "SE"
+    },
+    {
+        "id": 26,
+        "nmEstado": "Tocantins",
+        "sigla": "TO"
+    }
+]

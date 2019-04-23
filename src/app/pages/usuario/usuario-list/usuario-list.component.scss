@@ -1,0 +1,17 @@
+.user-item {
+  padding: 2%;
+  ion-grid {
+    ion-row {
+      ion-col {
+        ion-label {
+          font-size: 18px;
+          color: #707070;
+          p {
+            font-size: 12px;
+            font-family: "Roboto", sans-serif;
+          }
+        }
+      }
+    }
+  }
+}

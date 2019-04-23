@@ -1,0 +1,24 @@
+ion-header {
+  ion-toolbar {
+    --padding-bottom: 10%;
+  }
+}
+
+ion-content {
+  background-color: #eef2f5;
+
+  ion-fab {
+    margin-right: 6%;
+    margin-left: 6%;
+  }
+
+  .lista-usuario {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ffffff;
+    ion-list {
+      box-shadow: 0px 2px 4px hsl(0, 0%, 40%);
+    }
+  }
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "nmNacionalidade": "Brasileiro"
+    },
+    {
+        "id": 1,
+        "nmNacionalidade": "Cubano"
+    },
+    {
+        "id": 2,
+        "nmNacionalidade": "Americano"
+    },
+    {
+        "id": 3,
+        "nmNacionalidade": "Argentino"
+    },
+    {
+        "id": 4,
+        "nmNacionalidade": "Francês"
+    },
+    {
+        "id": 5,
+        "nmNacionalidade": "Angolano"
+    },
+    {
+        "id": 6,
+        "nmNacionalidade": "Mexicano"
+    },
+    {
+        "id": 7,
+        "nmNacionalidade": "Japonês"
+    }
+]

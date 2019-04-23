@@ -1,0 +1,77 @@
+[
+    {
+        "id": 0,
+        "nmUsuario": "Jose Araujo",
+        "email": "jose@gmail.com",
+        "nmMae": "Maria Josefina",
+        "nmPai": "Francisco Jose",
+        "nacionalidade": {
+            "id": 0,
+            "nmNacionalidade": "Brasileiro"
+        },
+        "estado": {
+            "id": 0,
+            "nmEstado": "Acre",
+            "sigla": "AC"
+        },
+        "escolaridade": {
+            "id": 0,
+            "nmEscolaridade": "Educação infantil"
+        },
+        "situacaoConjugal": {
+            "id": 0,
+            "nmSituacao": "Casado"
+        },
+        "frequentaEscola": "S"
+    },
+    {
+        "id": 1,
+        "nmUsuario": "Jose Silva",
+        "email": "josesilva@gmail.com",
+        "nmMae": "Maria Josefina Araujo",
+        "nmPai": "Francisco Jose Silva",
+        "nacionalidade": {
+            "id": 3,
+            "nmNacionalidade": "Argentino"
+        },
+        "estado": {
+            "id": 0,
+            "nmEstado": "Acre",
+            "sigla": "AC"
+        },
+        "escolaridade": {
+            "id": 0,
+            "nmEscolaridade": "Educação infantil"
+        },
+        "situacaoConjugal": {
+            "id": 0,
+            "nmSituacao": "Casado"
+        },
+        "frequentaEscola": "S"
+    },
+    {
+        "id": 2,
+        "nmUsuario": "Maria Silva",
+        "email": "josesilva@gmail.com",
+        "nmMae": "Maria Josefina Araujo",
+        "nmPai": "Francisco Jose Silva",
+        "nacionalidade": {
+            "id": 3,
+            "nmNacionalidade": "Argentino"
+        },
+        "estado": {
+            "id": 0,
+            "nmEstado": "Acre",
+            "sigla": "AC"
+        },
+        "escolaridade": {
+            "id": 0,
+            "nmEscolaridade": "Educação infantil"
+        },
+        "situacaoConjugal": {
+            "id": 0,
+            "nmSituacao": "Casado"
+        },
+        "frequentaEscola": "S"
+    }
+]

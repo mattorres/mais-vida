@@ -1,5 +1,7 @@
 {
   "name": "maisvida",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

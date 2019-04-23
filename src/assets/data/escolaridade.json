@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "nmEscolaridade": "Educação infantil"
+    },
+    {
+        "id": 1,
+        "nmEscolaridade": "Fundamental"
+    },
+    {
+        "id": 2,
+        "nmEscolaridade": "Médio"
+    },
+    {
+        "id": 3,
+        "nmEscolaridade": "Superior (Graduação)"
+    },
+    {
+        "id": 4,
+        "nmEscolaridade": "Pós-graduação"
+    },
+    {
+        "id": 5,
+        "nmEscolaridade": "Mestrado"
+    },
+    {
+        "id": 6,
+        "nmEscolaridade": "Doutorado"
+    },
+    {
+        "id": 7,
+        "nmEscolaridade": "Escola"
+    }
+]

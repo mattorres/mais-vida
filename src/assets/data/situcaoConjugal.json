@@ -1,0 +1,14 @@
+[
+    {
+        "id": 0,
+        "nmSituacao": "Casado"
+    },
+    {
+        "id": 1,
+        "nmSituacao": "Solteiro"
+    },
+    {
+        "id": 2,
+        "nmSituacao": "Divorciado"
+    }
+]

@@ -1,0 +1,43 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>
+      Usuário
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content color="secondary">
+  <ion-fab edge vertical="top" horizontal="end" slot="fixed">
+    <ion-fab-button (click)="novoUsuario()" color="danger">
+      <ion-icon name="add"></ion-icon>
+    </ion-fab-button>
+  </ion-fab>
+  <div class="lista-usuario">
+    <ion-list>
+      <ion-item>
+        <ion-grid>
+          <ion-row align-items-center>
+            <ion-col size="12" sizeSm="12" sizeMd="6" sizeLg="6" sizeXl="6" align-self-center>
+              <ion-label>Usuário Cadastrados</ion-label>
+            </ion-col>
+            <ion-col size="12" sizeSm="12" sizeMd="6" sizeLg="6" sizeXl="6" align-self-center>
+              <ion-searchbar [(ngModel)]="searchTerm" (ionInput)="filtrarUsuarios($event)" *ngIf="barraPesquisa"
+                placeholder=""></ion-searchbar>
+              <div [hidden]="barraPesquisa" class="ion-text-end">
+                <ion-button (click)="habilitarBarraPesquisa()" slot="end" size="large" fill="clear">
+                  <ion-icon slot="icon-only" name="search"></ion-icon>
+                </ion-button>
+              </div>
+              <!-- <ion-searchbar></ion-searchbar> -->
+            </ion-col>
+          </ion-row>
+        </ion-grid>
+      </ion-item>
+      <app-usuario-list *ngFor="let usuario of usuarios" (evento)="excluirUsuario($event)" [usuario]="usuario">
+      </app-usuario-list>
+    </ion-list>
+  </div>
+</ion-content>

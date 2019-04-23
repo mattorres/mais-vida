@@ -1,0 +1,31 @@
+ion-content {
+  .form-usuario {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ffffff;
+    box-shadow: 0px 2px 4px hsl(0, 0%, 40%);
+    margin-top: 2%;
+    border-radius: 2px;
+    padding-bottom: 10%;
+    padding-right: 1%;
+    padding-left: 1%;
+
+    ion-grid {
+      ion-row {
+        ion-col {
+          p {
+            color: #208a77;
+            font-size: 14px;
+          }
+
+          div {
+            ion-button {
+              height: 0%;
+            }
+          }
+        }
+      }
+    }
+  }
+}
